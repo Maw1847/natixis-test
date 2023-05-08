@@ -1,0 +1,15 @@
+.formu {
+    background-color: burlywood;
+    width: 1000px;
+    height: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+    border-radius: 10px;
+}
+
+.forme {
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
